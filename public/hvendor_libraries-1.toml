@@ -1,2 +1,2 @@
-packages = ["raylib"]
-raylib = "https://github.com/iteractivacc/hashy_test_package.git"
+packages = ["testpkg"]
+testpkg = "https://github.com/iteractivacc/hashy_test_package.git"
