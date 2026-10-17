@@ -2,6 +2,8 @@
   <img src="hashypkg_social_preview.png" width="90%"/>
   <p align="center" >
     hashypkg
+  </p>
+  <p align="center">
     A package manager for Hashy programming language.
   </p>
 </p>
