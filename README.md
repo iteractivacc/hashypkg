@@ -1,5 +1,5 @@
 # hashypkg - Hashy package manager
-<p align="center>
+<p align="center">
   <img src="hashypkg_logo.png" style="width="50%"/>
 </p>
 ![Static Badge](https://img.shields.io/badge/status-work%20in%20progress-yellow?style=flat)
