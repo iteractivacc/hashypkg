@@ -44,7 +44,6 @@ A package manager for Hashy programming language.
 *   **[cimgui](https://github.com/cimgui/cimgui)** - Thin C-API wrapper for Dear ImGui, designed for use in other languages .
 *   **[libui-ng](https://github.com/libui-ng/libui-ng)** - Portable GUI library for C that uses native technologies of each platform.
 *   **[RmlUI](https://github.com/mikke89/RmlUi)** - HTML/CSS-based user interface library, a maintained fork of libRocket.
-*   **[microui](https://github.com/rxi/microui)** - Ultra-minimalist immediate-mode UI library in C .
 *   **[webview](https://github.com/webview/webview)** - Tiny cross-platform library for embedding a webview in native applications.
 *   **[FTXUI](https://arthursonzogni.github.io/FTXUI/)** - FTXUI is a functional, C++ library for terminal-based user interfaces.
 
