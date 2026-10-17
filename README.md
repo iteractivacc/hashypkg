@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/status-work%20in%20progress-yellow?style=flat"/>
   <img src="https://img.shields.io/github/stars/iteractivacc/hashypkg?style=flat"/>
-  <img src="https://img.shields.io/github/contributors/iteractivacc/hashypkg?style=flat"/>
+  <img src="https://img.shields.io/github/contributors/iteractivacc/hashypkg"/>
 </p>
 
 A package (lib) manager for Hashy programming language.
