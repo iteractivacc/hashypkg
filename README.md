@@ -10,4 +10,55 @@
 
 A package (lib) manager for Hashy programming language.
 
-License: MIT
+# WIP packages
+These packages will gradually appear in hvendor repositories:
+## Rendering, graphics and window
+SDL3
+SFML
+Raylib
+bgfx
+OpenGL
+GLFW
+cGLM
+TIGR
+## 3D models
+Assimp
+TinyGLTF
+TinyOBJLoader
+## UI
+cimgui
+libui-ng
+RmlUI
+microui
+webview
+## Physics
+Box2D
+Jolt Physics
+## Audio
+miniaudio
+SoLoud
+## Internet
+enet
+libgit2
+libwebsockets
+cpp-httplib
+## Embeddable languages
+QuickJS
+Lua/sol2
+Wren
+## Utilities
+PhysFS [⚙️]
+## Image
+stb
+## Tools and infrastructure
+cxxopts
+spdlog
+## System
+libmem
+## Concurrency
+Taskflow
+## Data and configuration
+pugixml
+libconfig
+
+**License: MIT**
