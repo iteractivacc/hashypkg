@@ -1,9 +1,7 @@
 <p align="center">
   <img src="hashypkg_social_preview.png" width="90%"/>
-  <p align="center" style="font-weight: bold;">
-    <span>
+  <p align="center">
       hashypkg
-    </span>
   </p>
   <p align="center">
     A package manager for Hashy programming language.
