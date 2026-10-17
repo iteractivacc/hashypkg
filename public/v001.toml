@@ -1,0 +1,4 @@
+version_name = "Beta 0.0.1"
+version_desc = "First release of the package manager."
+version_by = ["iteractiv"]
+download = "v001.zip"
