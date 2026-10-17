@@ -1,6 +1,5 @@
 <p align="center">
   <img src="hashypkg_logo.png" width="20%"/>
-  <img src="hashy_full_logo.png" width="60%"/>
   <h4 align="center">hashypkg - Hashy package manager</h4>
 </p>
 
@@ -11,6 +10,13 @@
 </p>
 
 A package (lib) manager for Hashy programming language.
+
+```
+hashypkg install package@version (@version - optional) - installs the package (if you haven't entered a version, it installs the latest one)
+hashypkg info package - displays information about the package: name, description, author, license
+hashypkg remove package - removes a package from hvendor
+hashypkg list - displays all installed packages
+```
 
 # Packages that will be added soon:
 
