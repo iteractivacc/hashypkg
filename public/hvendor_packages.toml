@@ -1,1 +1,2 @@
-testpkg = "https://github.com/iteractivacc/testpkg/archive/refs/heads/main.zip"
+testpkg-windows = ["0.0.1"]
+testpkg-windows@0_0_1 = "https://github.com/iteractivacc/testpkg/archive/refs/heads/main.zip"
