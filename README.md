@@ -1,6 +1,7 @@
 # hashypkg - Hashy package manager
-
-<img src="hashypkg_logo.png" style="width: 50%"/>
+<p align="center>
+  <img src="hashypkg_logo.png" style="width="50%"/>
+</p>
 ![Static Badge](https://img.shields.io/badge/status-work%20in%20progress-yellow?style=flat)
 ![GitHub Repo stars](https://img.shields.io/github/stars/iteractivacc/hashypkg?style=flat)
 ![Github Contributors](https://img.shields.io/github/contributors/iteractivacc/hashypkg?style=flat)
