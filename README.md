@@ -1,5 +1,6 @@
 <p align="center">
   <img src="hashypkg_social_preview.png" width="90%"/>
+  <h3 align="center">hashypkg</h3>
   <h4 align="center">A package manager for Hashy programming language.</h4>
 </p>
 
