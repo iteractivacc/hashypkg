@@ -1,2 +1,2 @@
 versions = ["v001"]
-v001 = "https://url.to/v001.toml"
+v001 = "https://raw.githubusercontent.com/iteractivacc/hashypkg/refs/heads/main/public/v001.toml"
