@@ -10,7 +10,7 @@
 
 A package manager for Hashy programming language.
 > [!WARNING]
-> Hashy programming language is not yet available for use.
+> Hashy programming language is not yet available for use. For now, only the Windows version will be available.
 
 # How to use:
 `hashypkg install package-compiler(MSVC / MinGW64)-platform@version` (@version - optional) - installs the package (if you haven't entered a version, it installs the latest one)
