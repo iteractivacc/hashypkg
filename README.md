@@ -46,6 +46,7 @@ A package manager for Hashy programming language.
 *   **[RmlUI](https://github.com/mikke89/RmlUi)** - HTML/CSS-based user interface library, a maintained fork of libRocket.
 *   **[microui](https://github.com/rxi/microui)** - Ultra-minimalist immediate-mode UI library in C .
 *   **[webview](https://github.com/webview/webview)** - Tiny cross-platform library for embedding a webview in native applications.
+*   **[FTXUI](https://arthursonzogni.github.io/FTXUI/)** - FTXUI is a functional, C++ library for terminal-based user interfaces.
 
 ### Physics
 *   **[Box2D](https://box2d.org/)** - A popular 2D physics engine for games .
@@ -74,6 +75,7 @@ A package manager for Hashy programming language.
 ### Tools and infrastructure
 *   **[cxxopts](https://github.com/jarro2783/cxxopts)** - Lightweight C++ option parser library for command-line arguments.
 *   **[spdlog](https://github.com/gabime/spdlog)** - Very fast, header-only C++ logging library.
+*   **[EnTT](https://github.com/skypjack/entt)** - EnTT is a header-only, tiny and easy to use library for game programming and much more written in modern C++.
 
 ### System
 *   **[libmem](https://github.com/rdbo/libmem)** - Advanced game hacking library for cross-platform memory manipulation and process interaction.
