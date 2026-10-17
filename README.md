@@ -10,6 +10,7 @@
 </p>
 
 A package (lib) manager for Hashy programming language.
+> Note: The Hashy programming language is not yet available for use.
 
 # How to use:
 `hashypkg install package@version` (@version - optional) - installs the package (if you haven't entered a version, it installs the latest one)
