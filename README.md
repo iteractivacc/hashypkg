@@ -1,6 +1,6 @@
 <p align="center">
   <img src="hashypkg_logo.png" width="20%"/>
-  hashypkg - Hashy package manager
+  <h1>hashypkg - Hashy package manager</h1>
 </p>
 
 ![Static Badge](https://img.shields.io/badge/status-work%20in%20progress-yellow?style=flat)
