@@ -1,4 +1,5 @@
-# testpkg by iteractiv (this package is a test one)
-
+# testpkg by iteractiv (this package is a test one):
+# [
 testpkg-windows = ["0.0.1"]
 testpkg-windows-0_0_1 = "https://github.com/iteractivacc/testpkg/releases/download/testpkg-windows/testpkg-windows.hspkg"
+# ]
