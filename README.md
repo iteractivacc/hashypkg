@@ -6,72 +6,70 @@
 ![Github Contributors](https://img.shields.io/github/contributors/iteractivacc/hashypkg?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/iteractivacc/hashypkg?style=social)
 
-
-
 A package (lib) manager for Hashy programming language.
 
 # Packages that will be added soon:
 
 ### Rendering, graphics and window
-*   **SDL3** - Cross-platform library for low-level access to audio, input, and graphics hardware .
-*   **SFML** - Simple and fast multimedia library, providing an object-oriented interface to windowing, graphics, and audio .
-*   **Raylib** - Simple and easy-to-use library for games programming, focused on prototyping and education .
-*   **bgfx** - Cross-platform, graphics API agnostic rendering library with support for many backends .
-*   **OpenGL** - The industry-standard specification for 2D/3D graphics APIs .
-*   **GLFW** - Lightweight library for managing OpenGL contexts, windows, and input .
-*   **cGLM** - Highly optimized math library for graphics programming in C.
-*   **TIGR** - Tiny cross-platform framebuffer library for simple 2D graphics and windows .
+*   **[SDL3](https://www.libsdl.org/)** - Cross-platform library for low-level access to audio, input, and graphics hardware.
+*   **[SFML](https://www.sfml-dev.org/)** - Simple and fast multimedia library, providing an object-oriented interface to windowing, graphics, and audio .
+*   **[Raylib](https://www.raylib.com/)** - Simple and easy-to-use library for games programming, focused on prototyping and education .
+*   **[bgfx](https://github.com/bkaradzic/bgfx)** - Cross-platform, graphics API agnostic rendering library with support for many backends.
+*   **[OpenGL](https://www.opengl.org/)** - The industry-standard specification for 2D/3D graphics APIs .
+*   **[GLFW](https://www.glfw.org/)** - Lightweight library for managing OpenGL contexts, windows, and input .
+*   **[cGLM](https://github.com/recp/cglm)** - Highly optimized math library for graphics programming in C.
+*   **[TIGR](https://github.com/erkkah/tigr)** - Tiny cross-platform framebuffer library for simple 2D graphics and windows.
 
 ### 3D models
-*   **Assimp** - Library to import various 3D model formats in a uniform manner .
-*   **TinyGLTF** - Header-only C++ library to load and save glTF 3D models .
-*   **TinyOBJLoader** - Header-only, single-file Wavefront OBJ loader written in C++ .
+*   **[Assimp](https://assimp.org/)** - Library to import various 3D model formats in a uniform manner .
+*   **[TinyGLTF](https://github.com/syoyo/tinygltf)** - Header-only C++ library to load and save glTF 3D models .
+*   **[TinyOBJLoader](https://github.com/tinyobjloader/tinyobjloader)** - Header-only, single-file Wavefront OBJ loader written in C++ .
 
 ### UI
-*   **cimgui** - Thin C-API wrapper for Dear ImGui, designed for use in other languages .
-*   **libui-ng** - Portable GUI library for C that uses native technologies of each platform .
-*   **RmlUI** - HTML/CSS-based user interface library, a maintained fork of libRocket .
-*   **microui** - Ultra-minimalist immediate-mode UI library in C.
-*   **webview** - Tiny cross-platform library for embedding a webview in native applications.
+*   **[cimgui](https://github.com/cimgui/cimgui)** - Thin C-API wrapper for Dear ImGui, designed for use in other languages .
+*   **[libui-ng](https://github.com/libui-ng/libui-ng)** - Portable GUI library for C that uses native technologies of each platform.
+*   **[RmlUI](https://github.com/mikke89/RmlUi)** - HTML/CSS-based user interface library, a maintained fork of libRocket.
+*   **[microui](https://github.com/rxi/microui)** - Ultra-minimalist immediate-mode UI library in C .
+*   **[webview](https://github.com/webview/webview)** - Tiny cross-platform library for embedding a webview in native applications.
 
 ### Physics
-*   **Box2D** - A popular 2D physics engine for games.
-*   **Jolt Physics** - A fast and flexible 3D physics engine written in C++, optimized for modern CPUs .
+*   **[Box2D](https://box2d.org/)** - A popular 2D physics engine for games .
+*   **[Jolt Physics](https://github.com/jrouwe/JoltPhysics)** - A fast and flexible 3D physics engine written in C++, optimized for modern CPUs .
 
 ### Audio
-*   **miniaudio** - Single-file audio playback and capture library supporting many formats .
-*   **SoLoud** - Easy-to-use, portable C/C++ audio engine for games .
+*   **[miniaudio](https://github.com/mackron/miniaudio)** - Single-file audio playback and capture library supporting many formats.
+*   **[SoLoud](https://soloud-audio.com/)** - Easy-to-use, portable C/C++ audio engine for games.
 
 ### Internet
-*   **enet** - Thin, simple, and robust network communication layer on top of UDP .
-*   **libgit2** - Portable, pure C implementation of the Git core methods as a linkable library .
-*   **libwebsockets** - Flexible, lightweight pure C library for modern network protocols like HTTP/2 and WebSockets .
-*   **cpp-httplib** - A C++11 cross-platform HTTP/HTTPS server and client library .
+*   **[enet](http://enet.bespin.org/)** - Thin, simple, and robust network communication layer on top of UDP .
+*   **[libgit2](https://libgit2.org/)** - Portable, pure C implementation of the Git core methods as a linkable library .
+*   **[libwebsockets](https://libwebsockets.org/)** - Flexible, lightweight pure C library for modern network protocols like HTTP/2 and WebSockets .
+*   **[cpp-httplib](https://github.com/yhirose/cpp-httplib)** - A C++11 cross-platform HTTP/HTTPS server and client library .
 
 ### Embeddable languages
-*   **QuickJS** - Small and embeddable JavaScript engine supporting the ES2020 specification .
-*   **Lua** - Powerful, efficient, lightweight, embeddable scripting language .
-*   **sol2** - Header-only C++ binding for Lua, designed for ease of use.
-*   **Wren** - Small, fast, class-based concurrent scripting language with a C API .
+*   **[QuickJS](https://bellard.org/quickjs/)** - Small and embeddable JavaScript engine supporting the ES2020 specification .
+*   **[Lua](https://www.lua.org/)** - Powerful, efficient, lightweight, embeddable scripting language .
+*   **[sol2](https://github.com/ThePhD/sol2)** - Header-only C++ binding for Lua, designed for ease of use .
+*   **[Wren](https://wren.io/)** - Small, fast, class-based concurrent scripting language with a C API.
 
 ### Utilities
-*   **PhysFS** [⚙️] - Library providing abstract access to various archives for games .
+*   **PhysFS** - Library providing abstract access to various archives for games.
 
 ### Image
-*   **stb** - Collection of single-file libraries for image loading, font rendering, and more.
+*   **[stb](https://github.com/nothings/stb)** - Collection of single-file libraries for image loading, font rendering, and more.
 
 ### Tools and infrastructure
-*   **cxxopts** - Lightweight C++ option parser library for command-line arguments .
-*   **spdlog** - Very fast, header-only C++ logging library .
+*   **[cxxopts](https://github.com/jarro2783/cxxopts)** - Lightweight C++ option parser library for command-line arguments.
+*   **[spdlog](https://github.com/gabime/spdlog)** - Very fast, header-only C++ logging library.
 
 ### System
-*   **libmem** - Advanced game hacking library for cross-platform memory manipulation and process interaction .
+*   **[libmem](https://github.com/rdbo/libmem)** - Advanced game hacking library for cross-platform memory manipulation and process interaction.
 
 ### Concurrency
-*   **Taskflow** - Lightweight C++ task graph programming system for parallel and heterogeneous computing .
+*   **[Taskflow](https://github.com/taskflow/taskflow)** - Lightweight C++ task graph programming system for parallel and heterogeneous computing.
 
 ### Data and configuration
-*   **pugixml** - Lightweight, simple, and fast XML parser for C++.
-*   **libconfig** - C/C++ library for processing structured configuration files.
+*   **[pugixml](https://pugixml.org/)** - Lightweight, simple, and fast XML parser for C++.
+*   **[libconfig](https://hyperrealm.github.io/libconfig/)** - C/C++ library for processing structured configuration files.
 
 **License: MIT**
