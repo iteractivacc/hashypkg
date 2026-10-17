@@ -53,8 +53,6 @@ A package (lib) manager for Hashy programming language.
 
 ### Utilities
 *   **PhysFS** - Library providing abstract access to various archives for games.
-
-### Image
 *   **[stb](https://github.com/nothings/stb)** - Collection of single-file libraries for image loading, font rendering, and more.
 
 ### Tools and infrastructure
