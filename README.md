@@ -11,15 +11,17 @@
 
 A package (lib) manager for Hashy programming language.
 
-```
-hashypkg install package@version (@version - optional) - installs the package (if you haven't entered a version, it installs the latest one)
-hashypkg info package - displays information about the package: name, description, author, license
-hashypkg remove package - removes a package from hvendor
-hashypkg list - displays all installed packages
-```
+# How to use:
+`hashypkg install package@version` (@version - optional) - installs the package (if you haven't entered a version, it installs the latest one)
+
+`hashypkg info package` - displays information about the package: name, description, author, license
+
+`hashypkg remove package` - removes a package from hvendor
+
+`hashypkg list` - displays all installed packages
+
 
 # Packages that will be added soon:
-
 ### Rendering, graphics and window
 *   **[SDL3](https://www.libsdl.org/)** - Cross-platform library for low-level access to audio, input, and graphics hardware.
 *   **[SFML](https://www.sfml-dev.org/)** - Simple and fast multimedia library, providing an object-oriented interface to windowing, graphics, and audio .
