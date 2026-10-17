@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hashypkg_social_preview.png" width="90%"/>
+  <img src="icons/hashypkg_social_preview.png" width="90%"/>
 </p>
 
 <p align="center">
