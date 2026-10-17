@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/contributors/iteractivacc/hashypkg"/>
 </p>
 
-A package (lib) manager for Hashy programming language.
+A package manager for Hashy programming language.
 > [!WARNING]
 > Hashy programming language is not yet available for use.
 
