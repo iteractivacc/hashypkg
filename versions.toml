@@ -1,2 +1,2 @@
-versions = ["0.0.1"]
+versions = ["v001"]
 v001 = "https://url.to/v001.toml"
