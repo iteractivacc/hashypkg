@@ -1,6 +1,7 @@
 <p align="center">
   <img src="hashypkg_social_preview.png" width="90%"/>
-  <h4 align="center">hashypkg - Hashy package manager</h4>
+  <img src="hashypkg_logo.png" width="20%"/>
+  <h4>A package manager for Hashy programming language.</h4>
 </p>
 
 <p align="center">
@@ -9,7 +10,6 @@
   <img src="https://img.shields.io/github/contributors/iteractivacc/hashypkg"/>
 </p>
 
-A package manager for Hashy programming language.
 > [!WARNING]
 > Hashy programming language is not yet available for use.
 
