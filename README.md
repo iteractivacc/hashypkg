@@ -84,7 +84,7 @@ A package (lib) manager for Hashy programming language.
 *   **[pugixml](https://pugixml.org/)** - Lightweight, simple, and fast XML parser for C++.
 *   **[libconfig](https://hyperrealm.github.io/libconfig/)** - C/C++ library for processing structured configuration files.
 
-# LICENSE:
+# License:
 ```
 MIT License
 
