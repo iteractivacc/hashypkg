@@ -3,9 +3,11 @@
   <h4 align="center">hashypkg - Hashy package manager</h4>
 </p>
 
-![Static Badge](https://img.shields.io/badge/status-work%20in%20progress-yellow?style=flat)
-![GitHub Repo stars](https://img.shields.io/github/stars/iteractivacc/hashypkg?style=flat)
-![Github Contributors](https://img.shields.io/github/contributors/iteractivacc/hashypkg?style=flat)
+<p align="center">
+  <img src="https://img.shields.io/badge/status-work%20in%20progress-yellow?style=flat"/>
+  <img src="https://img.shields.io/github/stars/iteractivacc/hashypkg?style=flat"/>
+  <img src="https://img.shields.io/github/contributors/iteractivacc/hashypkg?style=flat"/>
+</p>
 
 A package (lib) manager for Hashy programming language.
 
