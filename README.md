@@ -1,7 +1,8 @@
 # hashypkg - Hashy package manager
 
 ![Hashy experimental programming language](full_logo.png)
-![Static Badge](https://img.shields.io/badge/status-work%20in%20progress-yellow?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/status-work%20in%20progress-yellow?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/iteractivacc/hashypkg?style=social)
 
 A package (lib) manager for Hashy programming language.
 
