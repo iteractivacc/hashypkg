@@ -1,6 +1,6 @@
 <p align="center">
   <img src="hashypkg_social_preview.png" width="90%"/>
-  <p align="center" >
+  <p align="center" style="font-weight: bold">
     hashypkg
   </p>
   <p align="center">
