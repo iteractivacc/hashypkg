@@ -1,0 +1,3 @@
+miniz-windows-msvc
+cpr-windows-msvc
+toml++-windows-msvc
