@@ -1,5 +1,5 @@
 # how to install?
-# hashypkg install package-compiler(msvc/mingw64)-platform@version
+# hashypkg install package-compiler(msvc/mingw64)-platform-architecture(x86, x64, any(mostly without .dll and .lib files))@version
 
 # testpkg by iteractiv (this package is a test one):
 # [
