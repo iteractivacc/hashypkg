@@ -3,6 +3,6 @@
 
 # testpkg by iteractiv (this package is a test one):
 # [
-testpkg-msvc-windows-versions = ["0.0.1"]
-testpkg-msvc-windows-0_0_1 = "https://github.com/iteractivacc/testpkg/releases/download/testpkg-windows/testpkg-windows.hspkg"
+testpkg-msvc-windows-x86-versions = ["0.0.1"]
+testpkg-msvc-windows-x86-0_0_1 = "https://github.com/iteractivacc/testpkg/releases/download/testpkg-windows/testpkg-windows.hspkg"
 # ]
